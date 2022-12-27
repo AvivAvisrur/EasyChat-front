@@ -1,0 +1,20 @@
+.App {
+  /* border: 2px solid blue; */
+  width: 90%;
+  max-width: 1600px;
+  height: 90%;
+  background-color: white;
+  display: flex;
+}
+
+button{
+  border: none;
+}
+
+.rounded-image{
+  width: 50px;
+  height: 50px;
+  border: 3px solid white;
+  border-radius: 50px;
+}
+
