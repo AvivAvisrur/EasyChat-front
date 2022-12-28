@@ -7,7 +7,7 @@ type Props = {
 }
 
 export function Panel(props: Props) {
-  const styles = { justifyContent: props.justifyContent ?? 'flex-start', height: props.panelHeight && `${props.panelHeight}px` }
+  const styles = { justifyContent: props.justifyContent ?? 'flex-start'}
 
   return (
     <div className='panel-box' style={styles}>

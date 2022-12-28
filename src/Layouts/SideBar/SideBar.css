@@ -4,16 +4,5 @@
     flex-direction: column;
     width: 35%;
     min-width: 400px;
-    height: 100%;
-}
-
-
-.search-bar{
-    /* border: 1px solid blue; */
-    height: 80px;
-}
-
-.contacts{
-    /* border: 2px solid pink; */
-    height: 100%;
+    /* height: 100%; */
 }
