@@ -1,19 +1,15 @@
-.side-container { 
-    /* border: 1px solid green; */
-    display: flex;
-    flex-direction: column;
-    width: 35%;
-    min-width: 400px;
-    height: 100%;
+.side-container {
+  /* border: 1px solid green; */
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+  min-width: 400px;
+  /* height: 100%; */
 }
 
-
-.search-bar{
-    /* border: 1px solid blue; */
-    height: 80px;
-}
-
-.contacts{
-    /* border: 2px solid pink; */
-    height: 100%;
+.slide-container {
+  /* border: 1px solid green; */
+  overflow-y: auto;
+  position: relative;
+  height: 100%;
 }
